@@ -1,6 +1,10 @@
 # 👔 Fashion MNIST Classification with CNN
 
 <div align="center">
+  <img src="./banner.png" alt="Fashion MNIST Banner" width="100%">
+</div>
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
