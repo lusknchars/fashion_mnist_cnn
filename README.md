@@ -207,11 +207,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 👤 Author
 
-**Your Name**
+**Contact**
 
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/lucas-oliveira-498560246/
+- GitHub: https://github.com/lusknchars
 
 ---
 
